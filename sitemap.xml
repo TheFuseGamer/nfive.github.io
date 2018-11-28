@@ -7,11 +7,10 @@
 <url> <loc>https://nfive.io/docs/en/plugins</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/plugins" /> </url>
 <url> <loc>https://nfive.io/docs/en/setup</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/setup" /> </url>
 <url> <loc>https://nfive.io/docs/en/troubleshooting</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/troubleshooting" /> </url>
-<url> <loc>https://nfive.io/docs/en/nfpm/commands-plugins</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/nfpm/commands-plugins" /> </url>
-<url> <loc>https://nfive.io/docs/en/nfpm/commands-server</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/nfpm/commands-server" /> </url>
+<url> <loc>https://nfive.io/docs/en/nfpm/command-reference</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/nfpm/command-reference" /> </url>
 <url> <loc>https://nfive.io/docs/en/nfpm/nfpm</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/nfpm/nfpm" /> </url>
-<url> <loc>https://nfive.io/docs/en/sdk/client</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/sdk/client" /> </url>
-<url> <loc>https://nfive.io/docs/en/sdk/plugins</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/sdk/plugins" /> </url>
-<url> <loc>https://nfive.io/docs/en/sdk/sdk</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/sdk/sdk" /> </url>
-<url> <loc>https://nfive.io/docs/en/sdk/server</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/sdk/server" /> </url>
+<url> <loc>https://nfive.io/docs/en/plugindev/hub</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/plugindev/hub" /> </url>
+<url> <loc>https://nfive.io/docs/en/plugindev/overview</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/plugindev/overview" /> </url>
+<url> <loc>https://nfive.io/docs/en/plugindev/setup</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/plugindev/setup" /> </url>
+<url> <loc>https://nfive.io/docs/en/plugindev/temp</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://nfive.io/docs/en/plugindev/temp" /> </url>
 </urlset>
